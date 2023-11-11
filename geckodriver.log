@@ -1,0 +1,29 @@
+1695732883388	geckodriver	INFO	Listening on 127.0.0.1:56590
+1695732886443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56591" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FULLSC~1\\AppData\\Local\\Temp\\rust_mozprofileiZ2FfN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695732886832	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695732886906	Marionette	INFO	Listening on port 56607
+WebDriver BiDi listening on ws://127.0.0.1:56591
+Read port: 56607
+1695732887196	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56591/devtools/browser/90c09e32-b4d5-4ebf-8e54-23a3d4bec99d
+1695732893869	Marionette	INFO	Stopped listening on port 56607
+Dynamically enable window occlusion 1
+1695732894969	geckodriver	INFO	Listening on 127.0.0.1:56639
+1695732898011	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56640" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FULLSC~1\\AppData\\Local\\Temp\\rust_mozprofileMAc1ou"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695732898322	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695732898383	Marionette	INFO	Listening on port 56651
+WebDriver BiDi listening on ws://127.0.0.1:56640
+Read port: 56651
+1695732898691	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56640/devtools/browser/7284abde-71ef-4633-9e13-a63f5caa7470
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1695732907815	Marionette	INFO	Stopped listening on port 56651
+Dynamically enable window occlusion 1
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I, line 2: NS_ERROR_NOT_INITIALIZED: 
